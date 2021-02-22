@@ -22,6 +22,6 @@ public class Suma
 
         suma = numero1 + numero2; //Suma los numeros, despues almacena el total en suma
 
-        System.out.printf("La suma es %d%n",suma); //muestra la suma
+        System.out.printf("La suma es %d%n",suma); //muestra la summa
     }
 }
