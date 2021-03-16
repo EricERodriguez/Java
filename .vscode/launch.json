@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch aylenimp",
+            "request": "launch",
+            "mainClass": "aylenimp",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aritmetica",
+            "request": "launch",
+            "mainClass": "Aritmetica",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PruebaCuenta",
+            "request": "launch",
+            "mainClass": "PruebaCuenta",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Suma",
+            "request": "launch",
+            "mainClass": "Suma",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch aritmeticamenorymayor",
+            "request": "launch",
+            "mainClass": "aritmeticamenorymayor",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch calcdecrecpobla",
+            "request": "launch",
+            "mainClass": "calcdecrecpobla",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculadoraimc",
+            "request": "launch",
+            "mainClass": "calculadoraimc",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch clacudeahorroviaj",
+            "request": "launch",
+            "mainClass": "clacudeahorroviaj",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch comparacion",
+            "request": "launch",
+            "mainClass": "comparacion",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch comparaciondeenteros",
+            "request": "launch",
+            "mainClass": "comparaciondeenteros",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch diametrodeuncirculo",
+            "request": "launch",
+            "mainClass": "diametrodeuncirculo",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejercicio123",
+            "request": "launch",
+            "mainClass": "ejercicio123",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch enteromenormayor",
+            "request": "launch",
+            "mainClass": "enteromenormayor",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiplos",
+            "request": "launch",
+            "mainClass": "multiplos",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch paroimpar",
+            "request": "launch",
+            "mainClass": "paroimpar",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch print4numeroenlinea",
+            "request": "launch",
+            "mainClass": "print4numeroenlinea",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch separaciondedigitos",
+            "request": "launch",
+            "mainClass": "separaciondedigitos",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch tabladecuadradosycubos",
+            "request": "launch",
+            "mainClass": "tabladecuadradosycubos",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch tresenteros",
+            "request": "launch",
+            "mainClass": "tresenteros",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch valordeuncaracter",
+            "request": "launch",
+            "mainClass": "valordeuncaracter",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch valoresnegposce",
+            "request": "launch",
+            "mainClass": "valoresnegposce",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch visualizaciondefigconaste",
+            "request": "launch",
+            "mainClass": "visualizaciondefigconaste",
+            "projectName": "Java_fa86f0f7"
+        }
+    ]
+}
