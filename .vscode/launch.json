@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch tresvectores",
+            "request": "launch",
+            "mainClass": "tresvectores",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch sueldosalmacenado",
+            "request": "launch",
+            "mainClass": "sueldosalmacenado",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch vector15num",
+            "request": "launch",
+            "mainClass": "vector15num",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vectormayormenor",
+            "request": "launch",
+            "mainClass": "Vectormayormenor",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch vectoresstring",
+            "request": "launch",
+            "mainClass": "vectoresstring",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch vectoresscanner",
+            "request": "launch",
+            "mainClass": "vectoresscanner",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch vectores",
+            "request": "launch",
+            "mainClass": "vectores",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
             "name": "Launch aylenimp",
             "request": "launch",
             "mainClass": "aylenimp",
