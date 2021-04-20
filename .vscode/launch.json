@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch matrizvuelo",
+            "request": "launch",
+            "mainClass": "matrizvuelo",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrizalumno",
+            "request": "launch",
+            "mainClass": "matrizalumno",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrizperros",
+            "request": "launch",
+            "mainClass": "matrizperros",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch matriz6x6condiagonal1",
+            "request": "launch",
+            "mainClass": "matriz6x6condiagonal1",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrizde5",
+            "request": "launch",
+            "mainClass": "matrizde5",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch matriz",
+            "request": "launch",
+            "mainClass": "matriz",
+            "projectName": "Java_fa86f0f7"
+        },
+        {
+            "type": "java",
             "name": "Launch tresvectores",
             "request": "launch",
             "mainClass": "tresvectores",
